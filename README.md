@@ -4,7 +4,7 @@
 
 ### In this project, I implemented a bot for playing the two-player chain reaction game. 
 
-Chain reaction is a two player game. 
+The rules of the game are the following -
 - The environment is a m.n board.
 - Two players - Red and Green, take turns to place balls (orbs) in his/her chosen square.
 - Every cell has a critical mass. It can wither be 4 (for middle cells), 3 (for cells in the edge), and 2 (for the cells in the corners).
