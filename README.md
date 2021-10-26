@@ -16,7 +16,7 @@ Chain reaction is a two player game.
 
 The rules of playing the game can also be found [here](https://brilliant.org/wiki/chain-reaction-game/).
 
-## Process to start the game:
+## Play the game!
 
 ![Starting the game](aigame1.JPG)
 
