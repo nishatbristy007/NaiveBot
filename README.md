@@ -12,6 +12,8 @@ Chain reaction is a two player game.
 - When a cell reaches its critical mass, it explodes. As a result of the explosion, the cell loses all the balls and each orthogonally adjacent cell gains one more ball with it's current number of balls. This process continues until there is no cell with a critical mass.
 - When a red cell explodes and there are orthogonal green cell adjacent to it, all the green balls become red.
 - When the whole board has only one color, the player for the corresponding color wins.
+
+
 The rules of playing the game can also be found [here](https://brilliant.org/wiki/chain-reaction-game/).
 
 ## Process to start the game:
