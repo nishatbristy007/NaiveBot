@@ -1,3 +1,3 @@
 # NaiveBot
 
-![Starting the game](http://url/to/img.png)
+![Starting the game](aigame1.JPG)
