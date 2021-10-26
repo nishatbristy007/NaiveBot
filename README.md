@@ -2,7 +2,7 @@
 
 ## Chain Reaction
 
-### This is a bot for playing the two-player chain reaction game. 
+### In this project, I implemented a bot for playing the two-player chain reaction game. 
 
 Chain reaction is a two player game. 
 - The environment is a m.n board.
