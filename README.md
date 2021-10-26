@@ -1,2 +1,3 @@
 # NaiveBot
-#The code is implemented for the file version.
+
+![Starting the game](http://url/to/img.png)
