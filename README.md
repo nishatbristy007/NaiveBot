@@ -18,23 +18,23 @@ The rules of playing the game can also be found [here](https://brilliant.org/wik
 
 ## Play the game!
 
-Starting the game:
+**Starting the game:**
 ![Starting the game](aigame1.JPG)
 
-Initial board:
+**Initial board:**
 ![initial board](aigame2.JPG)
 
-Starting player 1:
+**Starting player 1:**
 ![starting player 1](aigame3.JPG)
 
-Board state after starting player 1:
+**Board state after starting player 1:**
 ![board after starting player 1](aigame4.JPG)
 
-Starting player 2:
+**Starting player 2:**
 ![Starting player 2](aigame5.JPG)
 
-Board state after starting player 2:
+**Board state after starting player 2:**
 ![Board after starting player 2](aigame6.JPG)
 
-Mid game:
+**Mid game:**
 ![Mid game](aigame7.JPG)
